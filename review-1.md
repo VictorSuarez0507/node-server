@@ -1,9 +1,9 @@
-#¿Qué es mi producto y para que sirve?
+# ¿Qué es mi producto y para que sirve?
 Es una herramienta que permite crear una lista de tareas, donde una vez creada puedes completar, eliminar y 
 visualizar cada una de estas. Adicionalmente, puedes llevar un control de tus tareas, debido a que se ajecuta 
 por medio de una consola interactiva.
 
-#¿Cuáles son las funcionalidades más importantes y porque los usuarios las usarían?
+# ¿Cuáles son las funcionalidades más importantes y porque los usuarios las usarían?
 Las principales funcionalidades de la aplicacion son:
 1. **Agregar tarea:** Los usuarios registran su tarea y el sistema les asigna una ID y registra el estado como 
 incompleta.
